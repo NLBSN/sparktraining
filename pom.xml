@@ -13,7 +13,7 @@
     <fastjson.version>1.2.58</fastjson.version>
     <jetty.version>9.4.18.v20190429</jetty.version>
     <container.version>2.17</container.version>
-    <scala.version>2.12.8</scala.version>
+    <scala.version>2.11.12</scala.version>
     <scala.binary.version>2.11</scala.binary.version>
     <java.version>1.8</java.version>
   </properties>
@@ -160,8 +160,8 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>1.7</source>
-          <target>1.7</target>
+          <source>1.8</source>
+          <target>1.8</target>
         </configuration>
       </plugin>
 
