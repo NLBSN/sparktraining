@@ -1,6 +1,6 @@
 ## sparktraining
 Examples for Spark Training in chinahadoop.cn
-
+此工程是在董西成老师的基础上进行修改的，加入了我自己的一些练习。如有侵权，请发邮件到1042038872@qq.com，我会及时做出处理的，谢谢。
 
 ## 本地运行Spark方法
   - 下载spark安装包
